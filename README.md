@@ -1,5 +1,5 @@
-# ¡El Turismo está de vuelta! 🛬 
-###### _¿Cómo evolucionó el turismo no residente en Argentina en los últimos años?_
+# ¿El Turismo está de vuelta? 🛬 🛳️ 🚍
+###### _¿Cómo evolucionó el turismo no residente en Argentina en los últimos 16 años?_
 Repositorio académico que busca analizar la evolución del turismo en Argentina en los últimos años, comparando momentos de mayor relevancia turística.
 #
 ###### _Materia: Laboratorio de Métodos Cuantitativos Aplicados a la Gestión._
