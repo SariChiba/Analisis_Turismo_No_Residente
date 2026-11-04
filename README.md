@@ -12,23 +12,23 @@ Repositorio académico que busca analizar la evolución del turismo en Argentina
 ## Estructura del repositorio
 ```
 📂 El Turismo Está de Vuelta
-├── dataset                                  # Dataset utilizado en este trabajo.
-|    └── turistas-no-residentes-serie.csv   
-├── notebook                                 # Notebook ejecutado del análisis del datset.
-|    └── turismo_datacenter.ipynb
-├── informe                                  # Informe académico que respalda las conclusiones obtenidas en la notebook.
-|    └── informe_final.pdf                     
+├── informe de investigación                 # Informe académico que respalda las conclusiones obtenidas en la notebook.
+|    └── informe_final.pdf   
 ├── ppt                                      # Apoyo visual para la defensa del trabajo.
-|     └── ppt_para_la_clase
-└── notas_del_grupo                          # Bocetos y notas de apoyo que usó el grupo antes de llevarlo al trabajo final.
-      ├── Cronograma_Trabajo.md
-      └── posibles_preguntas.md                                    
+|    └── ppt_para_la_clase
+├── análisis_turismo                         # Dataset utilizado en este trabajo.
+|    └── turistas-no-residentes-serie.csv                    
+├── notas del grupo                          # Bocetos y notas de apoyo que usó el grupo antes de llevarlo al trabajo.
+|     └── cronograma_trabajo.md
+|     └── posibles_preguntas.md
+└── notebook                                 # Notebook ejecutado del análisis del dataset.
+      └── turismo_datacenter.ipynb               
 ```
 ## Integrantes del grupo 
 👩🏻‍💻 Altamirano Ileana, registro: 922518.<br>
-👩🏻‍💻 Sari Chiba, registro: 922474. <br>
-👩🏻‍💻 Noelia Rodriguez, registro: 922237 <br>
-👩🏻‍💻 Erika Vallejos, registro: 922313 <br>
+👩🏻‍💻 Chiba Sari, registro: 922474. <br>
+👩🏻‍💻 Rodriguez Noelia, registro: 922237 <br>
+👩🏻‍💻 Vallejos Erika, registro: 922313 <br>
 
 #
 #### Origen de los datos
