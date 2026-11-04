@@ -16,7 +16,7 @@ Repositorio académico que busca analizar la evolución del turismo en Argentina
 |    └── informe_final.pdf   
 ├── ppt                                      # Apoyo visual para la defensa del trabajo.
 |    └── ppt_para_la_clase
-├── análisis_turismo                         # Dataset utilizado en este trabajo.
+├── dataset                                  # Dataset utilizado en este trabajo.
 |    └── turistas-no-residentes-serie.csv                    
 ├── notas del grupo                          # Bocetos y notas de apoyo que usó el grupo antes de llevarlo al trabajo.
 |     └── cronograma_trabajo.md
