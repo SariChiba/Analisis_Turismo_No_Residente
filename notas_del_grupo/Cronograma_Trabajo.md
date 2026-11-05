@@ -5,9 +5,9 @@
 |--------|--------|--------|--------|
 | Parte 1 | > Formación del grupo.<br> > Elección del dataset.<br> > Elección de la pregunta.<br> > Creación del repo. | 16-18 de octubre | ✅
 | Parte 2 | > Análisis en Python.<br> > Creación del colab. | 18-30 de octubre | ✅ |
-| Parte 3 | > Creación del informe | 30 oct - 2 nov | 🔜 |
-| Parte 4 | > Creación de diapos.<br> > Complemento (opcional).<br> > Revisión final de todo. | 2-5 noviembre | 🔜 |
-| Parte 5 | > Entrega y defensa del trabajo. | 6 noviembre | 🔜 |
+| Parte 3 | > Creación del informe | 30 oct - 2 nov | ✅ |
+| Parte 4 | > Creación de diapos.<br> > Complemento (opcional).<br> > Revisión final de todo. | 2-5 noviembre | ✅|
+| Parte 5 | > Entrega y defensa del trabajo. | 6 noviembre | ✅ |
 
 #
 #
@@ -26,6 +26,8 @@
 1. ~Definir de forma escrita la pregunta que guía el resto del analisis.~<br>
 2. ~Definir motivación del análisis.~<br>
 3. ~¿Qué respuesta encontramos? (a responder al finalizar el análisis).~<br>
+
+
 ## A tener en cuenta:<br>
 1. ~Al menos **DOS** transformaciones justificadas:~<br>
      a) ~Filtrar filas.~<br>
@@ -35,10 +37,10 @@
 2. ~Al menos calcular **DOS** estadísticos de resumen agrupados usando .groupby().~<br>
 3. ~Mínimo **TRES** gráficos de distintos tipos:~<br>
      a) ~Evolución temporal o distribución:~<br>
-          I. ~Serie principal.~<br>
-          II. ~Histograma.~<br>
-          III. ~Boxplot.~<br>
+          I. ~Histograma.~<br>
+          II. ~Mapa de calor.~<br>
+          III. ~Gafico de lineas superpuestas.~<br>
      b) ~Comparación entre categorías:~<br>
            I. ~Barras simples o apiladas (ejes etiquetados y unidades).~<br>
      c) ~Relación entre dos variables:~<br>
-           I. ~Diagrama de dispersión o líneas superpuestas.~<br>
+           I. ~Líneas superpuestas.~<br>
