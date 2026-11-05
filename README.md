@@ -11,7 +11,7 @@ Repositorio académico que busca analizar la evolución del turismo en Argentina
 #
 ## Estructura del repositorio
 ```
-📂 El Turismo Está de Vuelta
+📂 Analisis Turismo No Residente
 ├── informe de investigación                 # Informe académico que respalda las conclusiones obtenidas en la notebook.
 |    └── informe_final.pdf   
 ├── ppt                                      # Apoyo visual para la defensa del trabajo.
