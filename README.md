@@ -25,8 +25,8 @@ Repositorio académico que busca analizar la evolución del turismo en Argentina
       └── turismo_datacenter.ipynb               
 ```
 ## Integrantes del grupo 
-👩🏻‍💻 Altamirano Ileana, registro: 922518.<br>
-👩🏻‍💻 Chiba Sari, registro: 922474. <br>
+👩🏻‍💻 Altamirano Ileana, registro: 922518 <br>
+👩🏻‍💻 Chiba Sari, registro: 922474 <br>
 👩🏻‍💻 Rodriguez Noelia, registro: 922237 <br>
 👩🏻‍💻 Vallejos Erika, registro: 922313 <br>
 
