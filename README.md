@@ -23,7 +23,7 @@ Repositorio académico que busca analizar la evolución del turismo en Argentina
 |     └── posibles_preguntas.md
 └── notebook                                 # Notebook ejecutado del análisis del dataset.
       └── turismo_datacenter.ipynb
-└── app.js                                 # Archivos del Sitio Web.
+└── app.js                                   # Archivos del Sitio Web.
 └── chart-local.js
 └── data.js
 └── index.html
