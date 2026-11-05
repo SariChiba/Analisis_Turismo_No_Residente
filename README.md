@@ -22,13 +22,22 @@ Repositorio académico que busca analizar la evolución del turismo en Argentina
 |     └── cronograma_trabajo.md
 |     └── posibles_preguntas.md
 └── notebook                                 # Notebook ejecutado del análisis del dataset.
-      └── turismo_datacenter.ipynb               
+      └── turismo_datacenter.ipynb
+└── app.js                                 # Archivos del Sitio Web.
+└── chart-local.js
+└── data.js
+└── index.html
+└── styles.css              
 ```
 ## Integrantes del grupo 
 👩🏻‍💻 Altamirano Ileana, registro: 922518 <br>
 👩🏻‍💻 Chiba Sari, registro: 922474 <br>
 👩🏻‍💻 Rodriguez Noelia, registro: 922237 <br>
 👩🏻‍💻 Vallejos Erika, registro: 922313 <br>
+
+#
+#### Sitio Web
+https://sarichiba.github.io/Analisis_Turismo_No_Residente/#inicio
 
 #
 #### Origen de los datos
