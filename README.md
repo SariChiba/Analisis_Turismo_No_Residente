@@ -12,18 +12,19 @@ Repositorio académico que busca analizar la evolución del turismo en Argentina
 ## Estructura del repositorio
 ```
 📂 Analisis Turismo No Residente
-├── informe de investigación                 # Informe académico que respalda las conclusiones obtenidas en la notebook.
+├── dataset                                  #Dataset utilizado en este trabajo.
+|    └── turistas-no-residentes-serie.csv
+├── informe                                  #Informe académico que respalda las conclusiones obtenidas en el notebook.
 |    └── informe_final.pdf   
-├── ppt                                      # Apoyo visual para la defensa del trabajo.
-|    └── ppt_para_la_clase
-├── dataset                                  # Dataset utilizado en este trabajo.
-|    └── turistas-no-residentes-serie.csv                    
-├── notas del grupo                          # Bocetos y notas de apoyo que usó el grupo antes de llevarlo al trabajo.
-|     └── cronograma_trabajo.md
+├── ppt                                      #Apoyo visual para la defensa del trabajo.
+|    └── ppt_para_la_clase                    
+├── notas del grupo                          #Bocetos y notas de apoyo que usó el grupo antes de llevarlo al trabajo.
+|     └── Cronograma_Trabajo.md
 |     └── posibles_preguntas.md
-└── notebook                                 # Notebook ejecutado del análisis del dataset.
-      └── turismo_datacenter.ipynb
-└── app.js                                   # Archivos del Sitio Web.
+└── notebook                                 #Notebook ejecutado del análisis del dataset.
+      └── Analisis_turismo.ipynb
+└──README.md
+└── app.js                                   #Archivos que permiten abrir el sitio web correctamente.
 └── chart-local.js
 └── data.js
 └── index.html
@@ -36,7 +37,7 @@ Repositorio académico que busca analizar la evolución del turismo en Argentina
 👩🏻‍💻 Vallejos Erika, registro: 922313 <br>
 
 #
-#### Sitio Web
+#### Sitio Web para la defensa del trabajo
 https://sarichiba.github.io/Analisis_Turismo_No_Residente/#inicio
 
 #
